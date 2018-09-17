@@ -1,3 +1,5 @@
+// Third try - 8:44
+
 const testNums = [1, 2, 3, 4];
 
 function sumFor(nums) {
